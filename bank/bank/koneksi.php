@@ -2,7 +2,7 @@
 
 use PDO;
 
-$host = "http://ip172-18-0-12-c0daeqs34gag00ac6cgg-3306.direct.labs.play-with-docker.com/"; // Nama hostnya
+$host = "192.168.0.8"; // Nama hostnya
 $username = "root"; // Username
 $password = "my-root"; // Password (Isi jika menggunakan password)
 $database = "bank_crud"; // Nama databasenya
